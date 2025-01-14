@@ -11,7 +11,28 @@ const Footer = () => {
                 Lorem Lorem Lorem Lorem
             </p>
             </div>
+            <div>
+            <p className='text-xl font-medium mb-5'>COMPANY</p>
+            <ul className='flex flex-col gap-1 text-gray-600'>
+                <li>HOme</li>
+                <li>About us</li>
+                <li>Delivery</li>
+                <li>Privacy Policy</li>
+            </ul>
         </div>
+        <div>
+            <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
+            <ul className='flex flex-col gap-1 text-gray-600'>
+            <li>+1-2-33-44-4</li>
+            <li>contact</li>
+            </ul>
+        </div>
+        </div>
+        <div>
+            <hr/>
+            <p className='py-5 text-sm text-center'>Copyright 2025@ Divyanshi pal - All Right Reserved.</p>
+        </div>
+        
 
     </div>
   )
