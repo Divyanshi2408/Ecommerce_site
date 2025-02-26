@@ -1,6 +1,9 @@
 # E-Commerce Web Application
 
 ## 📌 Overview
+
+[Live Demo](https://trendy24.netlify.app/)
+
 This is a React-based E-Commerce Web Application that provides a seamless shopping experience for users. The platform supports product browsing, cart management, and order tracking.
 
 ## 🚀 Features
