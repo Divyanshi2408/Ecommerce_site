@@ -6,6 +6,8 @@
 
 This is a React-based E-Commerce Web Application that provides a seamless shopping experience for users. The platform supports product browsing, cart management, and order tracking.
 
+![Image](https://github.com/user-attachments/assets/5fdb22c3-947c-451e-ac1a-1a4272257762)
+
 ## 🚀 Features
 
 - 🔹 User Authentication & Authorization (Login, Signup, Logout)
