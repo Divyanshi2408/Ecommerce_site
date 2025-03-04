@@ -52,9 +52,6 @@ npm install
 npm start
 ```
 
-## 📸 Screenshots
-(Add relevant UI screenshots here)
-
 ## 📌 Future Enhancements
 
 ✅ Add product reviews and ratings  
@@ -64,10 +61,7 @@ npm start
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 📩 Contact
-For any inquiries, reach out to: your-email@example.com
+For any inquiries, reach out to: divyanshipal2808@gmail.com
 
 Happy Coding! 🚀
