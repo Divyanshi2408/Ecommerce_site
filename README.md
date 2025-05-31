@@ -1,4 +1,4 @@
-# E-Commerce Web Application
+<h1 align="center">E-Commerce Web Application
 
 ## 📌 Overview
 
@@ -18,27 +18,15 @@ This is a React-based E-Commerce Web Application that provides a seamless shoppi
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Tailwind CSS  
-**State Management:** context api
-**Routing:** React Router  
-
-## 📂 Project Structure
-```
-├── src
-│   ├── components
-│   ├── pages
-│   ├── context
-│   ├── services
-│   ├── assets
-│   ├── utils
-├── public
-```
+- **Frontend:** React.js, Tailwind CSS  
+- **State Management:** context api
+- **Routing:** React Router  
 
 ## 🔧 Installation
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/ecommerce-app.git
+git clone https://github.com/Divyanshi2408/Ecommerce_site
 cd ecommerce-app
 ```
 
@@ -51,12 +39,6 @@ npm install
 ```sh
 npm start
 ```
-
-## 📌 Future Enhancements
-
-✅ Add product reviews and ratings  
-✅ Implement wishlist feature  
-✅ Integrate AI-based recommendations  
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request.
